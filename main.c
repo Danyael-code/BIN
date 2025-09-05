@@ -2,15 +2,17 @@
 
 int main()
 {
-    //Var Def
+    //sesi 1
     int length, width, area;
     
-    //Var Init
     printf("Calculate Area of Rectangle");
     length = 5;
     width = 3;
     area = length*width;
     printf("Area of Rectangle = %d \n", area);
+
+    //sesi 2
+    
     
     return 0;
 }
